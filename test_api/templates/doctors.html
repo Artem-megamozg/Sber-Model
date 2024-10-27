@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Список врачей</title>
+</head>
+<body>
+    <h1 class="header">
+        <img src="/static/logo.png" alt="Логотип" class="logo">
+        Список доступных врачей
+    </h1>
+    <div class="container">
+        <h2 class="welcome-text">Доступные врачи:</h2>
+        <div class="doctor-list">
+            {% for doctor in doctors %}
+                <div class="doctor-card">
+                    <strong>{{ doctor.first_name }} {{ doctor.last_name }}</strong><br>
+                    Специализация: {{ doctor.specialization }}
+                </div>
+            {% endfor %}
+        </div>
+        <button onclick="window.location.href='/dashboard'" class="back-button">Назад</button>
+    </div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Сбер - Панель управления</title>
+</head>
+<body>
+    <h1 class="header">
+        <img src="/static/logo.png" alt="Логотип" class="logo">
+        Сбер
+    </h1>
+    <div class="container">
+        <h2 class="welcome-text">Добро пожаловать в СберДоктор!</h2>
+        <ul class="button-list">
+            <li><button class="assistant-button">Обратиться к ассистенту</button></li>
+            <li><button class="doctor-button">Записаться к врачу</button></li>
+            <li><button class="clinics-button">Посмотреть доступные клиники</button></li>
+            <li><button onclick="window.location.href='/doctors'" class="doctors-button">Посмотреть доступных врачей</button></li>
+        </ul>
+    </div>
+</body>
+</html>
