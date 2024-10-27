@@ -1,0 +1,1573 @@
+{
+    "doctor_types": [
+        {
+            "id": "PATHOLOGIST",
+            "name": "Патологоанатом",
+            "description": null
+        },
+        {
+            "id": "7429848543427952641",
+            "name": "Ген.дир",
+            "description": null
+        },
+        {
+            "id": "7429620072642641923",
+            "name": "Покурист",
+            "description": null
+        },
+        {
+            "id": "3275912834023",
+            "name": "Венеролог",
+            "description": "gg"
+        },
+        {
+            "id": "238675923",
+            "name": "Заведующий Отделением Терапии",
+            "description": "Заведуеет отделением терапии"
+        },
+        {
+            "id": "82735092835",
+            "name": "Психотерапевт",
+            "description": "Помогает справиться с психоэмоциональными проблемами легкой и средней степени тяжести"
+        }
+    ],
+    "doctors": [
+        {
+            "id": "7429620205786628097",
+            "doctorType": {
+                "id": "THERAPIST",
+                "name": "Терапевт213"
+            },
+            "person": {
+                "entityId": "7429620059757740033",
+                "entity": {
+                    "firstName": "Вик",
+                    "lastName": "Бирюков"
+                }
+            }
+        },
+        {
+            "id": "7430213349501501442",
+            "doctorType": {
+                "id": "7429848543427952641",
+                "name": "Ген.дир"
+            },
+            "person": {
+                "entityId": "7430213349501501441",
+                "entity": {
+                    "firstName": "Михаил",
+                    "lastName": "Галустян"
+                }
+            }
+        },
+        {
+            "id": "7430237487217704961",
+            "doctorType": {
+                "id": "123",
+                "name": "123"
+            },
+            "person": {
+                "entityId": "7429848543427952641",
+                "entity": {
+                    "firstName": "Тимур",
+                    "lastName": "Енгалычев"
+                }
+            }
+        },
+        {
+            "id": "7430212962954444802",
+            "doctorType": {
+                "id": "7429620072642641923",
+                "name": "Покурист"
+            },
+            "person": {
+                "entityId": "7430212962954444801",
+                "entity": {
+                    "firstName": "Тест3",
+                    "lastName": "Тест"
+                }
+            }
+        },
+        {
+            "id": "7430209887757860865",
+            "doctorType": {
+                "id": "7429620072642641923",
+                "name": "Покурист"
+            },
+            "person": {
+                "entityId": "7430209883462893569",
+                "entity": {
+                    "firstName": "Diana",
+                    "lastName": "Stepanenko"
+                }
+            }
+        },
+        {
+            "id": "7430223545753862146",
+            "doctorType": {
+                "id": "3275912834023",
+                "name": "Венеролог"
+            },
+            "person": {
+                "entityId": "7430223545753862145",
+                "entity": {
+                    "firstName": "a",
+                    "lastName": "a"
+                }
+            }
+        },
+        {
+            "id": "7430200906981244929",
+            "doctorType": {
+                "id": "3275912834023",
+                "name": "Венеролог"
+            },
+            "person": {
+                "entityId": "7430193966314094593",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Купитман"
+                }
+            }
+        },
+        {
+            "id": "7430201194744053761",
+            "doctorType": {
+                "id": "238675923",
+                "name": "Заведующий Отделением Терапии"
+            },
+            "person": {
+                "entityId": "7430193901889585153",
+                "entity": {
+                    "firstName": "Андрей",
+                    "lastName": "Быков"
+                }
+            }
+        },
+        {
+            "id": "7430212039536476161",
+            "doctorType": {
+                "id": "82735092835",
+                "name": "Психотерапевт"
+            },
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430201065895034881",
+            "doctorType": {
+                "id": "82735092835",
+                "name": "Психотерапевт"
+            },
+            "person": {
+                "entityId": "7430194589084352513",
+                "entity": {
+                    "firstName": "Евлампий",
+                    "lastName": "Мельпомена"
+                }
+            }
+        },
+        {
+            "id": "7430210806880862210",
+            "doctorType": {
+                "id": "SURGEON",
+                "name": "Хирург"
+            },
+            "person": {
+                "entityId": "7430210806880862209",
+                "entity": {
+                    "firstName": "Тест",
+                    "lastName": "Тест"
+                }
+            }
+        },
+        {
+            "id": "7429922111922765827",
+            "doctorType": {
+                "id": "SURGEON",
+                "name": "Хирург"
+            },
+            "person": {
+                "entityId": "7429919019546312705",
+                "entity": {
+                    "firstName": "Лео",
+                    "lastName": "Бокерия"
+                }
+            }
+        }
+    ],
+    "customers": [
+        {
+            "id": "7429620210081595393",
+            "insurancePolicyNumber": "123321",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7429620072642641921",
+                "entity": {
+                    "firstName": "Станислав",
+                    "lastName": "Колесников"
+                }
+            }
+        },
+        {
+            "id": "7430062926861893634",
+            "insurancePolicyNumber": "12331222",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7429620059757740033",
+                "entity": {
+                    "firstName": "Вик",
+                    "lastName": "Бирюков"
+                }
+            }
+        },
+        {
+            "id": "7430062926861893633",
+            "insurancePolicyNumber": "12331222",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7429620059757740033",
+                "entity": {
+                    "firstName": "Вик",
+                    "lastName": "Бирюков"
+                }
+            }
+        },
+        {
+            "id": "7430108423450460161",
+            "insurancePolicyNumber": "33251231245",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7430107461377785857",
+                "entity": {
+                    "firstName": "Олег",
+                    "lastName": "Тест2"
+                }
+            }
+        },
+        {
+            "id": "7430109192249606145",
+            "insurancePolicyNumber": "12331222",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7430109187954638849",
+                "entity": {
+                    "firstName": "Егор",
+                    "lastName": "Шляхта"
+                }
+            }
+        },
+        {
+            "id": "7430109853674569729",
+            "insurancePolicyNumber": "1232134",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7430109849379602433",
+                "entity": {
+                    "firstName": "Олег",
+                    "lastName": "Панежа"
+                }
+            }
+        },
+        {
+            "id": "7430145248500056065",
+            "insurancePolicyNumber": "6516516516515",
+            "phoneNumber": "+79111111",
+            "person": {
+                "entityId": "7430138861883686913",
+                "entity": {
+                    "firstName": "Тёма",
+                    "lastName": "Башин"
+                }
+            }
+        },
+        {
+            "id": "7430146575644950529",
+            "insurancePolicyNumber": "65165165",
+            "phoneNumber": "+7911111",
+            "person": {
+                "entityId": "7430146536990244865",
+                "entity": {
+                    "firstName": "Саня",
+                    "lastName": "Булах "
+                }
+            }
+        },
+        {
+            "id": "7430162376829632513",
+            "insurancePolicyNumber": "51561651515",
+            "phoneNumber": "+79111111",
+            "person": {
+                "entityId": "7430162239390679041",
+                "entity": {
+                    "firstName": "Эрен ",
+                    "lastName": "Егер "
+                }
+            }
+        },
+        {
+            "id": "7430191406513586178",
+            "insurancePolicyNumber": "5616516",
+            "phoneNumber": "+7952812",
+            "person": {
+                "entityId": "7430191406513586177",
+                "entity": {
+                    "firstName": "Годжо",
+                    "lastName": "Сатору "
+                }
+            }
+        },
+        {
+            "id": "7429922111922765829",
+            "insurancePolicyNumber": "123321",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7430232569480151041",
+                "entity": {
+                    "firstName": "Рональд",
+                    "lastName": "Трамп"
+                }
+            }
+        },
+        {
+            "id": "7429922116217733122",
+            "insurancePolicyNumber": "321123",
+            "phoneNumber": "+7 (996) 306-20-57_",
+            "person": {
+                "entityId": "7430233484308185089",
+                "entity": {
+                    "firstName": "Камала",
+                    "lastName": "Харрис"
+                }
+            }
+        },
+        {
+            "id": "7430239913874227201",
+            "insurancePolicyNumber": "7429848543427952641",
+            "phoneNumber": null,
+            "person": {
+                "entityId": "7429848543427952641",
+                "entity": {
+                    "firstName": "Тимур",
+                    "lastName": "Енгалычев"
+                }
+            }
+        },
+        {
+            "id": "7430272985122406402",
+            "insurancePolicyNumber": "123698",
+            "phoneNumber": "+7912220202",
+            "person": {
+                "entityId": "7430272985122406401",
+                "entity": {
+                    "firstName": "Танджиро ",
+                    "lastName": "Комадо "
+                }
+            }
+        },
+        {
+            "id": "7430273487633580034",
+            "insurancePolicyNumber": "010203",
+            "phoneNumber": "+791252525",
+            "person": {
+                "entityId": "7430273487633580033",
+                "entity": {
+                    "firstName": "Игорь ",
+                    "lastName": "Растеряев"
+                }
+            }
+        },
+        {
+            "id": "7430274642979782658",
+            "insurancePolicyNumber": "741852",
+            "phoneNumber": "+7952451254",
+            "person": {
+                "entityId": "7430274642979782657",
+                "entity": {
+                    "firstName": "Максим ",
+                    "lastName": "Коллето "
+                }
+            }
+        },
+        {
+            "id": "7430276382441537538",
+            "insurancePolicyNumber": "5202",
+            "phoneNumber": "+791561516",
+            "person": {
+                "entityId": "7430276382441537537",
+                "entity": {
+                    "firstName": "Гию",
+                    "lastName": "Томиока "
+                }
+            }
+        },
+        {
+            "id": "7430277443298459650",
+            "insurancePolicyNumber": "6303",
+            "phoneNumber": "+7912151812",
+            "person": {
+                "entityId": "7430277443298459649",
+                "entity": {
+                    "firstName": "Муичиро",
+                    "lastName": "Токето "
+                }
+            }
+        },
+        {
+            "id": "7430278804803092482",
+            "insurancePolicyNumber": "5896",
+            "phoneNumber": "+489165161",
+            "person": {
+                "entityId": "7430278804803092481",
+                "entity": {
+                    "firstName": "Хинадзугава",
+                    "lastName": "Санами "
+                }
+            }
+        },
+        {
+            "id": "7430281716790919169",
+            "insurancePolicyNumber": "213",
+            "phoneNumber": "12313132132331",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430281987373858817",
+            "insurancePolicyNumber": "213",
+            "phoneNumber": "12313132132331",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430282051798368257",
+            "insurancePolicyNumber": "213",
+            "phoneNumber": "12313132132331",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430282064683270145",
+            "insurancePolicyNumber": "213",
+            "phoneNumber": "12313132132331",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430282073273204737",
+            "insurancePolicyNumber": "213",
+            "phoneNumber": "12313132132331",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430282081863139329",
+            "insurancePolicyNumber": "213",
+            "phoneNumber": "12313132132331",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430282756173004801",
+            "insurancePolicyNumber": "123",
+            "phoneNumber": "12312313121331323",
+            "person": {
+                "entityId": "7430212035241508865",
+                "entity": {
+                    "firstName": "Иван",
+                    "lastName": "Иванов"
+                }
+            }
+        },
+        {
+            "id": "7430283232914374658",
+            "insurancePolicyNumber": "456123",
+            "phoneNumber": "+78919815",
+            "person": {
+                "entityId": "7430283232914374657",
+                "entity": {
+                    "firstName": "Итачи",
+                    "lastName": "Учиха "
+                }
+            }
+        },
+        {
+            "id": "7430284048958160898",
+            "insurancePolicyNumber": "789456123",
+            "phoneNumber": "+491651651",
+            "person": {
+                "entityId": "7430284048958160897",
+                "entity": {
+                    "firstName": "Наруто ",
+                    "lastName": "Узумаки"
+                }
+            }
+        },
+        {
+            "id": "7430284611598876674",
+            "insurancePolicyNumber": "74123",
+            "phoneNumber": "+911981651",
+            "person": {
+                "entityId": "7430284611598876673",
+                "entity": {
+                    "firstName": "Саске",
+                    "lastName": "Учиха"
+                }
+            }
+        }
+    ],
+    "clinics": [
+        {
+            "id": "7429620454894731265",
+            "name": "Клиника N1"
+        },
+        {
+            "id": "7430082735251062785",
+            "name": "Клиника №2"
+        }
+    ],
+    "clinic_offices": {
+        "7429620454894731265": [
+            {
+                "id": "7429620459189698562",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "1"
+            },
+            {
+                "id": "7429620459189698563",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "2"
+            },
+            {
+                "id": "7430023309942194177",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "2"
+            },
+            {
+                "id": "7430023365776769025",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "3"
+            },
+            {
+                "id": "7430264399482781697",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "4"
+            },
+            {
+                "id": "7430264635705982977",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "5"
+            },
+            {
+                "id": "7430266585621135361",
+                "clinic": {
+                    "id": "7429620454894731265",
+                    "name": "Клиника N1"
+                },
+                "officeNumber": "6"
+            }
+        ],
+        "7430082735251062785": [
+            {
+                "id": "7430102371841540097",
+                "clinic": {
+                    "id": "7430082735251062785",
+                    "name": "Клиника №2"
+                },
+                "officeNumber": "1"
+            },
+            {
+                "id": "7430103007496699905",
+                "clinic": {
+                    "id": "7430082735251062785",
+                    "name": "Клиника №2"
+                },
+                "officeNumber": "2"
+            }
+        ]
+    },
+    "clinic_doctors": {
+        "7429620454894731265": [
+            {
+                "id": "7429620454894731266",
+                "doctor": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Вик",
+                                "lastName": "Бирюков"
+                            }
+                        },
+                        "doctorType": {
+                            "name": "Терапевт213"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430238814362599425",
+                "doctor": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Михаил",
+                                "lastName": "Галустян"
+                            }
+                        },
+                        "doctorType": {
+                            "name": "Ген.дир"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430239265334165505",
+                "doctor": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Андрей",
+                                "lastName": "Быков"
+                            }
+                        },
+                        "doctorType": {
+                            "name": "Заведующий Отделением Терапии"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430241198069448705",
+                "doctor": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Иван",
+                                "lastName": "Купитман"
+                            }
+                        },
+                        "doctorType": {
+                            "name": "Венеролог"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430241451472519169",
+                "doctor": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Евлампий",
+                                "lastName": "Мельпомена"
+                            }
+                        },
+                        "doctorType": {
+                            "name": "Психотерапевт"
+                        }
+                    }
+                }
+            }
+        ],
+        "7430082735251062785": []
+    },
+    "doctor_schedules": {
+        "7429620454894731266": [],
+        "7430238814362599425": [],
+        "7430239265334165505": [],
+        "7430241198069448705": [
+            {
+                "id": "7430272697359597569",
+                "beginDate": "2024-10-27T05:00:00",
+                "endDate": "2024-10-27T23:00:00",
+                "clinicOffice": {
+                    "id": "7430264399482781697",
+                    "officeNumber": "4"
+                }
+            }
+        ],
+        "7430241451472519169": [
+            {
+                "id": "7430268780349423617",
+                "beginDate": "2024-10-27T06:00:00",
+                "endDate": "2024-10-27T15:00:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                }
+            }
+        ]
+    },
+    "appointments": {
+        "7429620454894731265": [
+            {
+                "id": "7430090393177751553",
+                "beginDate": "2024-10-26T14:19:34.832",
+                "endDate": "2024-10-26T14:34:34.832",
+                "clinicOffice": {
+                    "id": "7429620459189698563",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430091204926570497",
+                "beginDate": "2024-10-26T14:28:37.188",
+                "endDate": "2024-10-26T14:43:37.188",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430102715438923777",
+                "beginDate": "2024-10-26T14:19:34.832",
+                "endDate": "2024-10-26T14:34:34.832",
+                "clinicOffice": {
+                    "id": "7429620459189698563",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430104334641594369",
+                "beginDate": "2024-10-26T15:19:34.222",
+                "endDate": "2024-10-26T15:34:34.222",
+                "clinicOffice": {
+                    "id": "7429620459189698563",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430130134510141441",
+                "beginDate": "2024-10-26T16:59:39.587",
+                "endDate": "2024-10-26T17:14:39.587",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430130280539029505",
+                "beginDate": "2024-10-26T17:00:13.609",
+                "endDate": "2024-10-26T17:15:13.609",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430131199662030849",
+                "beginDate": "2024-10-26T17:03:48.182",
+                "endDate": "2024-10-26T17:18:48.182",
+                "clinicOffice": {
+                    "id": "7430023309942194177",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430282665978691585",
+                "beginDate": "2025-04-04T15:00:00",
+                "endDate": "2024-04-04T15:13:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Танджиро ",
+                                "lastName": "Комадо "
+                            }
+                        },
+                        "insurancePolicyNumber": "123698",
+                        "phoneNumber": "+7912220202"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430141730921840641",
+                "beginDate": "2024-10-26T17:44:42.116",
+                "endDate": "2024-10-26T17:59:42.116",
+                "clinicOffice": {
+                    "id": "7429620459189698563",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430283563626856449",
+                "beginDate": "2026-05-05T15:00:00",
+                "endDate": "2026-05-05T18:00:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Итачи",
+                                "lastName": "Учиха "
+                            }
+                        },
+                        "insurancePolicyNumber": "456123",
+                        "phoneNumber": "+78919815"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7430241451472519169",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Евлампий",
+                                    "lastName": "Мельпомена"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Психотерапевт"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430284920836521985",
+                "beginDate": "2024-03-05T18:00:00",
+                "endDate": "2024-03-05T18:20:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Саске",
+                                "lastName": "Учиха"
+                            }
+                        },
+                        "insurancePolicyNumber": "74123",
+                        "phoneNumber": "+911981651"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430168016121692161",
+                "beginDate": "2024-11-02T12:50:00",
+                "endDate": "2024-11-02T13:00:00",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430168733381230593",
+                "beginDate": "2024-11-02T11:50:00",
+                "endDate": "2024-11-02T12:00:00",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430182962607882241",
+                "beginDate": "2024-11-02T10:50:00",
+                "endDate": "2024-11-02T11:00:00",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430183173061279745",
+                "beginDate": "2024-11-02T10:40:00",
+                "endDate": "2024-11-02T10:49:00",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Олег",
+                                "lastName": "Панежа"
+                            }
+                        },
+                        "insurancePolicyNumber": "1232134",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430207882008133633",
+                "beginDate": "2024-10-26T16:30:00",
+                "endDate": "2024-10-26T17:30:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430212391723794433",
+                "beginDate": "2024-10-26T16:30:00",
+                "endDate": "2024-10-26T17:30:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Рональд",
+                                "lastName": "Трамп"
+                            }
+                        },
+                        "insurancePolicyNumber": "123321",
+                        "phoneNumber": null
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430234145733148673",
+                "beginDate": "2024-11-02T05:00:00",
+                "endDate": "2024-11-02T11:00:00",
+                "clinicOffice": {
+                    "id": "7430023365776769025",
+                    "officeNumber": "3"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Камала",
+                                "lastName": "Харрис"
+                            }
+                        },
+                        "insurancePolicyNumber": "321123",
+                        "phoneNumber": "+7 (996) 306-20-57_"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430245033475244033",
+                "beginDate": "2024-10-27T10:00:00",
+                "endDate": "2024-10-27T11:00:00",
+                "clinicOffice": {
+                    "id": "7430023309942194177",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Годжо",
+                                "lastName": "Сатору "
+                            }
+                        },
+                        "insurancePolicyNumber": "5616516",
+                        "phoneNumber": "+7952812"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430247322692812801",
+                "beginDate": "2024-10-28T10:00:00",
+                "endDate": "2024-10-28T11:00:00",
+                "clinicOffice": {
+                    "id": "7430023309942194177",
+                    "officeNumber": "2"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Годжо",
+                                "lastName": "Сатору "
+                            }
+                        },
+                        "insurancePolicyNumber": "5616516",
+                        "phoneNumber": "+7952812"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7430241451472519169",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Евлампий",
+                                    "lastName": "Мельпомена"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Психотерапевт"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430259949896663041",
+                "beginDate": "2024-11-10T16:00:00",
+                "endDate": "2024-11-10T16:30:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Саня",
+                                "lastName": "Булах "
+                            }
+                        },
+                        "insurancePolicyNumber": "65165165",
+                        "phoneNumber": "+7911111"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7429620454894731266",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Вик",
+                                    "lastName": "Бирюков"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Терапевт213"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7430262501107236865",
+                "beginDate": "2024-10-10T20:31:00",
+                "endDate": "2024-10-10T21:00:00",
+                "clinicOffice": {
+                    "id": "7429620459189698562",
+                    "officeNumber": "1"
+                },
+                "customer": {
+                    "entity": {
+                        "person": {
+                            "entity": {
+                                "firstName": "Годжо",
+                                "lastName": "Сатору "
+                            }
+                        },
+                        "insurancePolicyNumber": "5616516",
+                        "phoneNumber": "+7952812"
+                    }
+                },
+                "clinicDoctor": {
+                    "id": "7430241198069448705",
+                    "doctor": {
+                        "entity": {
+                            "person": {
+                                "entity": {
+                                    "firstName": "Иван",
+                                    "lastName": "Купитман"
+                                }
+                            },
+                            "doctorType": {
+                                "name": "Венеролог"
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "7430082735251062785": []
+    }
+}
